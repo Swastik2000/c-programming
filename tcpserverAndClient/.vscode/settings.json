@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "types.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "sstream": "c",
+        "stop_token": "c",
+        "streambuf": "c",
+        "socket.h": "c",
+        "stdio.h": "c",
+        "functional": "c"
+    }
+}
